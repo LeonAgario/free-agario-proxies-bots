@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         HSLO + NelBots
+// @name         HSLO + Proxies Bots
 // @description  HSLO
 // @version      7.1
 // @author       test114514
