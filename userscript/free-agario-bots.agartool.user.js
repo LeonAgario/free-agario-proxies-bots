@@ -1,7 +1,7 @@
 // ==UserScript==
 // @author		Moon
 // @name		Agar Tool
-// @version		14.0
+// @version		14.0 + Potion hack
 // @namespace	AgarTool
 // @description	Adds new features to agar.io such as free coins, and unlimited zoom. To see all new features, visit our website at https://www.agartool.io
 // @match		*://*.agar.io/*
